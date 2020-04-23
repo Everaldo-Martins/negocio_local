@@ -1,2 +1,2 @@
 # Negócio Local
-Site estatica para promover comércio da região, projeto legaodo ao IFPB campus Santa Luzia
+Site estatico, com a missão de promover o comércio da região, projeto ligado ao IFPB campus Santa Luzia.
